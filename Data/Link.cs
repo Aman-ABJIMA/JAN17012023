@@ -5,7 +5,8 @@
         public int Id { get; set; }
         public string Lurl { get; set; }
         public string Surl { get; set; }
-
         public DateTime DateTime { get; set; }
+        public int HIT { get; set; }
+       
     }
 }
